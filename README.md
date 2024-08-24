@@ -1,6 +1,6 @@
 # ObjDetect_img
 
-
+### A short ML project which focuses on detecting objects when a image source is provided as input. It uses OpenCV and YOLOv8 in-built libraries of Python Programming.
 
 ![Screenshot 2024-08-24 151023](https://github.com/user-attachments/assets/08235e89-6208-43d3-8283-96be5876d3d6)
 ![Screenshot 2024-08-24 150726](https://github.com/user-attachments/assets/a6712f16-a28b-4af7-83e3-d13110ce9c28)
